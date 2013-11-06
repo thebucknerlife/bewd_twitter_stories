@@ -1,10 +1,16 @@
 #Pairs
 
+
 * Bobby <=> Lillian
 * Brian <=> Toni
-* Jamel <=> David
+* Celeste <=> Sid
+* David <=> Jamel
 * John <=> Kelly
 * Larry <=> Jazz
-* Tom <=> Reed
-* Celeste <=> Sid
+* Reed <=> Tom
 * Tyler <=> Kim
+
+#Lunch & Code
+
+Saturday, November 9 at General Assembly LA from 11am to 5pm. 
+Lunch included.
