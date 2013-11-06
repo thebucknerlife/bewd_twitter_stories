@@ -1,6 +1,3 @@
-bewd_twitter_stories
-====================
-
 #Twitter Clone
 
 ##User Stories
