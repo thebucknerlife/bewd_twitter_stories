@@ -5,11 +5,12 @@
 * Brian <=> Toni
 * Celeste <=> Sid
 * David <=> Jamel
-* Leroy <=> Kelly
+* John <=> Kit
 * Larry <=> Jazz
+* Leroy <=> Kelly
 * Reed <=> Tom
 * Tyler <=> Kim
-* John <=> Kit
+
 
 #Lunch & Code
 
