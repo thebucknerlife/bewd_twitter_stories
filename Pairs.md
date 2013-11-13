@@ -10,9 +10,3 @@
 * Leroy <=> Kelly
 * Reed <=> Tom
 * Tyler <=> Kim
-
-
-#Lunch & Code
-
-Saturday, November 9 at General Assembly LA from 11am to 5pm. 
-Lunch included.
