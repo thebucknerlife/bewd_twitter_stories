@@ -1,4 +1,4 @@
-Rules
+###Rules
 
 * Only 1 computer! If you are the passenger, close your computer
 * Don't be handsy.
